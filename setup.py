@@ -10,6 +10,5 @@ setup(
     license="LGPLv3",
     packages=["turtleplotlib"],
     zip_safe=True,
-
-    install_requires = ["matplotlib",]
+    install_requires=["matplotlib",]
 )
